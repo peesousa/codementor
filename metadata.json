@@ -1,0 +1,8 @@
+{
+  "name": "CodeMentor",
+  "description": "Uma plataforma de mentoria premium com programação colaborativa em tempo real, matching via IA e simulações de entrevistas interativas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
